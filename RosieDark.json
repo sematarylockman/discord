@@ -1,16 +1,16 @@
 {
-  "name": "RosieDark",
-  "description": "Dark Rosie theme!!",
+  "name": "HauntsDark",
+  "description": "Dark haunted theme.",
   "version": "1.0",
   "authors": [
     {
-      "name": "flower",
-      "id": "836452332387565589"
+      "name": "haunts",
+      "id": "1011246413935554652"
     }
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#b9fff5",
+      "#990000",
       "#060607"
     ],
     "HEADER_SECONDARY": [
@@ -22,11 +22,11 @@
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#b9fff5",
+      "#990000",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#bfb9ff",
+      "#990000",
       "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
@@ -38,7 +38,7 @@
       "#060607"
     ],
     "INTERACTIVE_MUTED": [
-      "#bfb9ff",
+      "#990000",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
@@ -58,7 +58,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#bfb9ff",
+      "#990000",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
